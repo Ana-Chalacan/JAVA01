@@ -31,6 +31,8 @@ public class PROYECTO_ANA {
         
         System.out.println("El area del triangulo es:" +respuesta);
         
+        System.out.println("***************************************");
+        
         //CIRCULO
         double radio;
         
